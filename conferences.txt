@@ -1,0 +1,3 @@
+http://www.froscon.de/startseite/
+https://fosdem.org/
+https://www.usenix.org/conference/lisa13
