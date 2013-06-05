@@ -1,0 +1,2 @@
+github enterprise for internal use (comes as a virtual machine image)
+https://enterprise.github.com/
